@@ -1,5 +1,7 @@
 This is a LUA script to manage OBS browser source and add a URL to play embedded videos from Youtube. The script just makes it simple to insert a single video player, create custom playlists or load a Youtube generated list via a remote URL using OBS browser source, without all the ads and page elements on the Youtube page.
 
+Download: [https://github.com/WebsiteDons/Maax-Youtube-Plus-Video-Player/releases/tag/maax-youtube-player](https://github.com/WebsiteDons/Maax-Youtube-Plus-Video-Player/releases/tag/maax-youtube-player)
+
 ## Installation
 * Extract the .ZIP archive in the OBS installation scripts folder.\
 _obs-studio\data\obs-plugins\frontend-tools\scripts (OBS really needs a script installer)_
